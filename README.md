@@ -1,0 +1,14 @@
+# redfin-user 11 RD1A.200810.020 6792687 release-keys
+- manufacturer: 
+- platform: lito
+- codename: redfin
+- flavor: redfin-user
+- release: 11
+- id: RD1A.200810.020
+- incremental: 6792687
+- tags: release-keys
+- fingerprint: google/redfin/redfin:11/RD1A.200810.020/6792687:user/release-keys
+- is_ab: true
+- brand: google
+- branch: redfin-user-11-RD1A.200810.020-6792687-release-keys
+- repo: google_redfin_dump
